@@ -1,6 +1,5 @@
 //
 //  main.c
-//  Matala 5 (2)
 //
 //  Created by Maks Moroshek on 12/24/19.
 //  Copyright © 2019 Maks Moroshek. All rights reserved.
